@@ -19,11 +19,9 @@ IF you dont have Target Model, then just keep in mind you have to same Domain A 
 ## The Test output results is below.
 | Mean S-PSNR: 23.5156 | Mean S-SSIM: 0.9386 | Mean R-PSNR: 23.7978 |Mean R-SSIM: 0.9632 |
 
-I : from Image
-
-S : Secret Image when train or test process
-
-R : Direct extracted Secret Image with R-Net
+- I : from Image
+- S : Secret Image when train or test process
+- R : Direct extracted Secret Image with R-Net
 
 ![result](imgs/validation_sorted_output2.png)
 
