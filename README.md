@@ -27,12 +27,9 @@ IF you dont have Target Model, then just keep in mind you have to same Domain A 
 
 ### The original output
 
-**ResultPics_epoch000_batch1700.png** -> actually Epoch 30
-![result](outputs/trainpics/ResultPics_epoch000_batch1700.png)
-
-
-**ResultPics_epoch015_batch1700.png** -> actually Epoch 45
-![result](outputs/trainpics/ResultPics_epoch015_batch1700.png)
+(Left) **ResultPics_epoch000_batch1700.png** -> actually Epoch 30  (Right) **ResultPics_epoch015_batch1700.png** -> actually Epoch 45
+![result](outputs/trainpics/ResultPics_epoch000_batch1700.png) | ![result](outputs/trainpics/ResultPics_epoch015_batch1700.png)
+---|---|
 
 ### Crop Center
 ![result](imgs/secretResult_center.png)
